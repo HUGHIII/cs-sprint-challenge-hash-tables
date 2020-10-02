@@ -1,6 +1,9 @@
 def has_negatives(a):
     """
     YOUR CODE HERE
+
+    pseudo -
+    
     """
     # Your code here
 
